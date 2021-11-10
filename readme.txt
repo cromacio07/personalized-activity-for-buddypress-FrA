@@ -1,4 +1,4 @@
-=== Personalized Activity for Buddypress - Friends, Following, Admin ===
+=== Personalized Activity for Buddypress - Friends, Admin ===
 Contributors: Cromacio
 Tags: buddypress, community, social network
 Requires at least: 5.5
@@ -11,7 +11,7 @@ Buddypress Personalized Activity
  
 == Description ==
  
-Makes Buddypress Activity Personalized For Users, by Including Activity Feeds Only From Users They Are Friends With, Users They Are Following And Administrator of Your Community.
+Makes Buddypress Activity Personalized For Users, by Including Activity Feeds Only From Users They Are Friends With And Administrator of Your Community.
  
 == Installation ==
  
