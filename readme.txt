@@ -1,4 +1,4 @@
-=== Personalized Activity for Buddypress - Friends, Admin ===
+=== Personalized Activity for Buddypress - Friends & Admin ===
 Contributors: Cromacio
 Tags: buddypress, community, social network
 Requires at least: 5.5
