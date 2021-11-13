@@ -29,8 +29,7 @@ function personalized_activity_for_buddypress_FrA_by_rubix_args( $args ) {
 	
 	$args['user_id_by_rubix'] = $user_id_friends_by_rubix;
 	
-	//print_r($args);
 	return $args;
 	
 }
-add_filter( 'bp_after_has_activities_parse_args', 'personalized_activity_for_buddypress_FfFwA_by_rubix_args' );
+add_filter( 'bp_after_has_activities_parse_args', 'personalized_activity_for_buddypress_FrA_by_rubix_args' );
