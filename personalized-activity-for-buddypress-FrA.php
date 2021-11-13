@@ -2,7 +2,7 @@
 /**
 * Plugin Name: Personalized Activity for Buddypress - Friends & Admin
 * Description: Makes Buddypress Activity Personalized For Users, by Including Activity Feeds Only From Users They Are Friends With And Administrator of Your Community.
-* Version: 1.0.2
+* Version: 1.0.3
 * Author: Rubix from SPARCK
 * Author URI: https://drip-sparck.pantheonsite.io
 * License:      GPL3
